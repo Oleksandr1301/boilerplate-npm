@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Oleksandr",
+	"homepage": "https://github.com/Oleksandr1301/boilerplate-npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
